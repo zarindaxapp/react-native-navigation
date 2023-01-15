@@ -42,5 +42,5 @@ body:
       \nDevice model:
       \nAndroid version:"
   - type: markdown
-      attributes:
-        value: "Remember that first-time contributors are welcome! 🙌 Feel free to reach us out on https://discord.gg/DhkZjq2 \nHave a great day and thank you for the bug report!""
+    attributes:
+      value: "Remember that first-time contributors are welcome! 🙌 Feel free to reach us out on https://discord.gg/DhkZjq2 \nHave a great day and thank you for the bug report!"
